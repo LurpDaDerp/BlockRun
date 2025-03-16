@@ -1,1 +1,1 @@
-This is the very first game I ever made back in the summer of 2023. Making this game was a very fun first step when I was beginning to learn programming in Java. It took around two months of work to mostly complete, and there are still some unadded features. 
+This is the first decently well-made game I programmed back in the summer of 2023. Making this game was a very fun way to develop my programming skills in Java. It took around two months of work to mostly complete, and there are still some unadded features that I may or may not update in the future. 
